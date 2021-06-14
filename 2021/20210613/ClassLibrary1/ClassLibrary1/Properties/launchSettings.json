@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClassLibrary1": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\ClassLibrary2\\ClassLibrary2.csproj"
+    }
+  }
+}
