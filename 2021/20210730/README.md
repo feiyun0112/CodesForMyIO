@@ -1,1 +1,1 @@
-客户要求ASP.NET Core API返回特定格式，怎么办？
+Hello Blazor：(7)WebAssembly、Server模式你选哪种？小孩子才做选择！我用混合模式
