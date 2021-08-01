@@ -1,0 +1,1 @@
+Hello Blazor：(5)如何判断当前托管模式是WebAssembly还是Server

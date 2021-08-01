@@ -1,0 +1,9 @@
+﻿@page "/"
+
+@inject IJSRuntime JS
+
+<p>@IsWasm</p>
+
+@code {
+    private bool IsWasm => JS.GetType().ToString().Contains("DefaultWebAssemblyJSRuntime");
+}
