@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ApiControllerGenerator": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\src\\Services\\Ordering\\GeekTime.Ordering.API\\GeekTime.Ordering.API.csproj"
+    }
+  }
+}
