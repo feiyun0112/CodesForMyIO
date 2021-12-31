@@ -22,3 +22,5 @@
 - [Source Generators实现简版AutoMapper](2021/20210801)
 - [.NET Core开发实战（定义API的最佳实践）Source Generators版](2021/20210806)
 - [不会自动化UI测试？不会编程？没问题，会造句就行！](2021/20210808)
+- [轻松实现深度Clone | Source Generators方式](2021/20211231)
+
